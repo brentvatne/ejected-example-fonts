@@ -33,7 +33,7 @@ PODS:
   - EXUpdates (0.1.2):
     - React
     - UMCore
-  - EXWebBrowser (8.1.0):
+  - EXWebBrowser (8.2.0):
     - UMCore
   - FBLazyVector (0.61.5)
   - FBReactNativeSpec (0.61.5):
@@ -329,7 +329,7 @@ DEPENDENCIES:
   - UMFontInterface (from `../node_modules/unimodules-font-interface/ios`)
   - UMImageLoaderInterface (from `../node_modules/unimodules-image-loader-interface/ios`)
   - UMPermissionsInterface (from `../node_modules/unimodules-permissions-interface/ios`)
-  - "UMReactNativeAdapter (from `../node_modules/react-native-unimodules/node_modules/@unimodules/react-native-adapter/ios`)"
+  - "UMReactNativeAdapter (from `../node_modules/@unimodules/react-native-adapter/ios`)"
   - UMSensorsInterface (from `../node_modules/unimodules-sensors-interface/ios`)
   - UMTaskManagerInterface (from `../node_modules/unimodules-task-manager-interface/ios`)
   - Yoga (from `../node_modules/react-native/ReactCommon/yoga`)
@@ -438,7 +438,7 @@ EXTERNAL SOURCES:
   UMPermissionsInterface:
     :path: "../node_modules/unimodules-permissions-interface/ios"
   UMReactNativeAdapter:
-    :path: "../node_modules/react-native-unimodules/node_modules/@unimodules/react-native-adapter/ios"
+    :path: "../node_modules/@unimodules/react-native-adapter/ios"
   UMSensorsInterface:
     :path: "../node_modules/unimodules-sensors-interface/ios"
   UMTaskManagerInterface:
@@ -460,7 +460,7 @@ SPEC CHECKSUMS:
   EXPermissions: 24b97f734ce9172d245a5be38ad9ccfcb6135964
   EXSQLite: 877ad6c8eb169353a2f94d5ad26510ffadd46a1f
   EXUpdates: c8b35afb562139260e904801e031ab3d270acaf1
-  EXWebBrowser: 4118b18d151fd03c935bd9de4cd312d2b33ec2c5
+  EXWebBrowser: c8abe4e22f30322949da381d4f6faa8d94ba6b59
   FBLazyVector: aaeaf388755e4f29cd74acbc9e3b8da6d807c37f
   FBReactNativeSpec: 118d0d177724c2d67f08a59136eb29ef5943ec75
   Folly: 30e7936e1c45c08d884aa59369ed951a8e68cf51
